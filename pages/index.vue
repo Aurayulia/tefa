@@ -104,7 +104,7 @@ onMounted(() => {
 }
 .card.bg-pengunjung {
      margin-top: 5%;
-     background-image: url('../assets/img/bg-home-kunjungan (3).jpeg');
+     background-image: url('../assets/img/bg-home-kunjungan.jpeg');
      background-repeat: no-repeat;
      background-position: center center;
      background-size: cover;
